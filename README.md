@@ -1,4 +1,4 @@
-### Subtasks 1A, B, and 1C: Hallucination Detection and Correction
+### Subtasks 1A, 1B, and 1C: Hallucination Detection and Correction
 
 This repository contains the data relevant to Subtasks 1A, B, and 1C of the IslamicEval 2025 Shared Task.
 
